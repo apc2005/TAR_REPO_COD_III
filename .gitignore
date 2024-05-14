@@ -1,0 +1,7 @@
+# Archivos generados automáticamente
+logs/
+temp/
+
+# Archivos de compilación
+*.exe
+*.dll
